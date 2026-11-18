@@ -56,4 +56,4 @@
 Marque uma opção e complete:
 
 - [ ] Não usei IA generativa em nenhuma parte deste trabalho.
-- [X] Usei IA generativa **somente** para: _____Nenhum desses códigos foi gerado por IA fiz o uso da IA para aprender os comandos necessários e sobre os passos que devem ser feitos nada foi pronto eu fui fazendo e continuamente perguntado se estava certo eu continuava e se eu errava eu corrigia até estár certo___ (não é permitido gerar código ou relatório).
+- [X] Usei IA generativa **somente** para: _____Nenhum desses códigos foi gerado por IA fiz o uso da IA para aprender os comandos necessários aprender sintaxe e sobre os passos que devem ser feitos nada foi pronto eu fui fazendo e continuamente perguntado se estava certo eu continuava e se eu errava eu corrigia até estár certo___ (não é permitido gerar código ou relatório).
