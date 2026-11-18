@@ -1,8 +1,8 @@
 # RELATORIO — Análise de Sentimento com PLN
 
-**Nome:** 
-**Repositório:** 
-**Data:** 
+**Nome:*Leonardo Gonçalves Wust* 
+**Repositório:*https://github.com/LeonardoWust/IAPLNleoanrdowust* 
+**Data:*17/11/2026* 
 
 > Responda cada pergunta com **4 a 12 linhas**, com suas palavras e usando números dos arquivos de `resultados/`. Apague as instruções em itálico ao entregar.
 
@@ -56,4 +56,4 @@
 Marque uma opção e complete:
 
 - [ ] Não usei IA generativa em nenhuma parte deste trabalho.
-- [ ] Usei IA generativa **somente** para: ______________ (não é permitido gerar código ou relatório).
+- [X] Usei IA generativa **somente** para: _____Nenhum desses códigos foi gerado por IA fiz o uso da IA para aprender os comandos necessários e sobre os passos que devem ser feitos nada foi pronto eu fui fazendo e continuamente perguntado se estava certo eu continuava e se eu errava eu corrigia até estár certo___ (não é permitido gerar código ou relatório).
